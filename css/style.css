@@ -1,0 +1,79 @@
+.back-img{
+    background: url(../images/jasin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    position: relative;
+  
+}
+
+
+.wrapper{
+    background: white;
+    width: 50%;
+    height: 80%;
+    margin-left: 300px;
+   margin-top: 35px;
+}
+
+
+.form{}
+.form h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 30px;
+    color: #006CAD;
+}
+.form h1 img{
+    height: 60px;
+    width: 60px;
+}
+.form {
+    background: offwhite;
+    padding: 40px 25px;
+    text-align: center;
+}
+.form-btn-custom{
+    display: block;
+    padding: 10px 30px;
+    font-size: 20px;
+    width: 65%;
+    margin-left: 70px;
+    background: #216941;
+    border: 0;
+    color: #fff;
+    text-transform: uppercase;
+    box-shadow: 4px 4px 0px #184e30;
+}
+
+
+
+.form-control {
+    display: block;
+    width: 65%;
+    height: 45px;
+    padding: 6px 15px;
+    font-size: 20px;
+    margin-left: 70px;
+    line-height: 1;
+    color:black ;
+    background-color: rgbas(255, 255, 255, 0);
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+
+ .any-ac{
+   
+ }
+.any-ac p{
+    color: black;
+}
+
+
